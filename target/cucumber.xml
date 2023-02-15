@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Techfios bank and cash New Account Functionality" name="User should be able to login with valid credentials" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User is on the techfios login page....................................skipped
+When User enters the "<username>" in "Username" field.......................undefined
+When User enters the "<password>" in "Password" field.......................undefined
+And User clicks on "<login>"................................................skipped
+Then User should land on Dashboard page.....................................skipped
+And User clicks on "<bankCash>".............................................skipped
+And User clicks on "<newAccount>"...........................................skipped
+And User enters "<accountTitle>" in accounts page...........................skipped
+And User enters "<description>" in accounts page............................skipped
+And User enters "<initialBalance>" in accounts page.........................skipped
+And User enters "<accountNumber>" in accounts page..........................skipped
+And User enters "<contactPerson>" in accounts page..........................skipped
+And User enters "<Phone>" in accounts page..................................skipped
+And User enters "<accountTitle>" in accounts page...........................skipped
+And User enters "<internetBankingURL>" in accounts page.....................skipped
+And User clicks on "<newAccount>"...........................................skipped
+Then User should be able to validate account created successfully...........skipped
+]]></failure>
+</testcase>
+</testsuite>
